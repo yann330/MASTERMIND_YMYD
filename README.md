@@ -40,5 +40,20 @@ Le joueur aura un maximum de 10 tentatives pour deviner la combinaison.
 
 
  
+### Commment y jouer : 
+Pour la première version et la deuxième version on n'a qu'à compiler le programme comme décrit plus haut puis le jeu nous guidera. Il y aura les menus et toutes les indications nécessaires. 
+
+Pour la troisième version, vue qu'on ne l'a pas finie, les options ne sont pas nommées. Ainsi, à la compilation du programme, une fenêtre qui contient deux grands tableaux s'ouvrira :
+- Le tableau de droite sera le tableau du joueur 1 qui générera la combinaison. Pour ce faire, il devra positionner son pointeur de souris juste au-dessus du tableau puis cliquer pour avoir ue couleur. Pour changer de couleur, il suffit de recliquer sur la pastille. 
+- Ensuite, il doit cliquer sur la case de confirmation (petite case individuelle en bas à gauche) pour confirmer son choix.
+- À chaque fois qu'on appuie sur cette touche, il y aura un switch entre les joueurs. 
+- La combinaison générée sera aisni cachée et le joueur 2 pourra commencer ses tentatives. 
+- Le joueur 2 doit se positionner dans le tableau et cliquer sur les cases pour mettre sa combinaison, puis appuyer sur la case case de confirmation pour confirmer son choix et switcher. 
+- Une fois le switch fait, le joueur A pourra mettre ses indication dans te tableau de droite. 
+
+- Le joueur 1 gagne si le joueur 2 a épuisé toutes ses tentatives sans trouver la bonne combinaison. 
+- Le joueur 2 gagne dès qu'il a trouvé la bonne combinaison. 
+
+- Pour quitter le jeu, on doit cliquer sur la case tout en haut à gauche. La case juste en-dessous allait servir de menu mais on n'a pas pu le mettre. 
 
 

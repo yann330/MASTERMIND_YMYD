@@ -1,8 +1,8 @@
 # Rapport du Projet Commun L2 Informatique
 				
-#Le jeu du  Mastermind
+# Le jeu du  Mastermind
 
-#Rapport de Groupe
+# Rapport de Groupe
 
 ## Auteurs : 
 * **Yanis HOURI**
@@ -32,7 +32,7 @@ Dans le répertoire Mastermind, on trouve en plus de ce rapport :
 - Un fichier **README.md** qui décrit en détail la démarche à suivre pour faire fonctionner le jeu. 
 
 
-###Les différentes versions : 
+### Les différentes versions : 
 
 - Le mastermind basique :
 Cette version a été la plus simple à programmer. Son implémentation nous a permis de nous familiariser avec le langage python. Ce qui est bien dans cette version est que l’on peut jouer seul, comme jouer à deux. 
@@ -83,9 +83,9 @@ Concernant la répartition des tâches, on a pas fait ça de manière claire. Le
     • On a utilisé le module multiprocessing et la fonction process pour pouvoir concevoir un programme multitâche. 
     • Pour l’interface graphique, on a tous cherché sur internet des tutos et regardé des vidéos youtube pour apprendre à créer des interfaces graphiques, mais on ne les maîtrise pas encore. 
 
-#Rapports individuels 
+# Rapports individuels 
 
-##Yanis HOURI
+## Yanis HOURI
 
 1-Expérience de cor-coordination: 
 Ce projet nous a demandé une très forte coordination avec mes camarades. Notre projet contient plusieurs variantes de mastermind, une version basique sur console, une version client/serveur TCP et une version graphique. On s'est entraidé sur toutes les parties de notre projet, que ce soit sur l'apprentissage des bases de python, les sockets et les bases de pygame. On a d'abord implémenté le jeu sur terminale puis après le cours de TCP/UDP qu'on a eu en 'Système et réseau' on a décidé de faire une version client/serveur. L'idée de la version graphique nous est venu à la fin c'est pour ça qu'elle beaucoup moins complète comparée aux autres. 
@@ -116,7 +116,7 @@ Ce projet a été une occasion pour moi d'apprendre davantage de choses sur pyth
 De plus, cette expérience m'a fait comprendre à quel point le travail d'équipe est important dans le domaine du développement et de la programmation.
 
 
-##Dihia HADJALI
+## Dihia HADJALI
 
 Expérience de co-coordination :
 
@@ -148,7 +148,7 @@ Le fait que nous ayons réussi à programmer ce jeu me donne confiance et me mot
 Cela m’a permis aussi de mettre en  pratique mes connaissances théoriques. 
 
 
-##Marie FU
+## Marie FU
 
 Lors d'une discussion en groupe, on s'est répati les tâches à faire et je me suis occupé de la partie graphique du jeu, pendant que le reste du groupe travaillait sur une version du jeu sur 
 terminal et une possible version avec le jeu en tcp.
@@ -164,7 +164,7 @@ Je trouve cette expérience satisfaisante, surtout quand je  réussit à résoud
 faire en sorte qu'un fond ne soit pas impacté par les affichages que je fait pas dessus.
 
 
-##Youcef Ould Kaci
+## Youcef Ould Kaci
 
 Après le choix du jeu, on s'est réparti les tâches à faire un groupe (dont je fais partie) pour la partie développement, on  a travaillé ensemble sur les fonctions du jeu, et les 2 diffèrent 
 mode, et à la fin sur une éventuelle version TCP du jeu. Lors de l'écriture du code , j'ai dû faire des recherches et regarder des vidéos pour en apprendre plus sur Python , et Pygame plus précisément qui est une bibliothèque pour coder des jeux. 
